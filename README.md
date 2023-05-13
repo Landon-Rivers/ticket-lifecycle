@@ -38,7 +38,7 @@ As an End User on the support center website select open a new ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/xPi7p7a.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3bv9h9u.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type your email address and full name as an end user. In the help topic select business critical outage. In the issue summary type entire online  banking system is down and state the problem. After stating the problem click create ticket.
@@ -46,9 +46,9 @@ Type your email address and full name as an end user. In the help topic select b
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xPi7p7a.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating the online banking ticket select open a new ticket. Type your email address and full name as an end user. In the help topic select personal computer issues. In the issue summary type Entire Accounting Depart Adobe Reader not working and state the problem. After stating the problem click create ticket.
 </p>
 <br />
