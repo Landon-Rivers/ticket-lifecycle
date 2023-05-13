@@ -52,3 +52,11 @@ Type your email address and full name as an end user. In the help topic select b
 When online banking ticket is successfully created select open a new ticket. Type your email address and full name as an end user. In the help topic select personal computer issues. In the issue summary type Entire Accounting Depart Adobe Reader not working and state the problem. After stating the problem click create ticket. When the ticket is successfully created select open a new ticket.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/VTAJ24z.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type your email address and full name as an end user. In the help topic select General Inquiry. In the issue summary type When are we getting a hardware refresh? and state the problem. After stating the problem click create ticket.
+</p>
+<br />
