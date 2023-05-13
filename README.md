@@ -38,7 +38,7 @@ As an End User on the support center website select open a new ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/KxPi7p7a.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xPi7p7a.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type your email address and full name as an end user. In the help topic select business critical outage. In the issue summary type entire online  banking system is down and state the problem. After stating the problem click create ticket.
