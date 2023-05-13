@@ -30,10 +30,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/KIvPWLn.pngg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KIvPWLn.pngg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an End User on the support center webssite select open a new ticket.
+As an End User on the support center website select open a new ticket.
 </p>
 <br />
 
