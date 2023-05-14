@@ -135,3 +135,4 @@ If you want to view resolved online banking ticket select the closed tab. In the
 <br />
 
 
+This concludes the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. The rest of the open tickets that was made will be shown in the video demonstration.
