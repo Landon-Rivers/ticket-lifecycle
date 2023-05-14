@@ -117,3 +117,11 @@ In Assigned To section select Jen as the assignee and choose assign.
 In the SLA Plan section select SEV-A and type the reasoning from C to A. After typing the reason click update.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Ap7m5bX.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Work the online banking ticket as Jen by responding to the end user Karen problem who made the ticket to see if you can get an answer from the System Admin Dept and select post reply.
+</p>
+<br />
