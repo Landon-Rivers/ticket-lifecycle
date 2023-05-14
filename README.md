@@ -146,6 +146,6 @@ When you go back to open tickets mobile banking is not present any more since th
 <img src="https://i.imgur.com/qqaoRS1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you want to view resolved online banking ticket select closed tab. In the closed tab you will see the resolved ticket present.
+If you want to view resolved online banking ticket select the closed tab. In the closed tab you will see the resolved ticket present and the agent who closed the case.
 </p>
 <br />
