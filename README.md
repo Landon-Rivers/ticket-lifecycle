@@ -125,3 +125,11 @@ In the SLA Plan section select SEV-A and type the reasoning from C to A. After t
 Work the online banking ticket as Jen by responding to the end user Karen who made the ticket to see if you can get an answer from the System Admin Dept and select post reply.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/B8FBHcG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the System Admin gives an answer respond to end user Karen that the problem has been taking care of and the online banking system should be back online. In the ticket status select resolved and post reply.
+</p>
+<br />
