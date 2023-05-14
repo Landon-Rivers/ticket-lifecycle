@@ -46,26 +46,10 @@ Type your email address and full name as an end user. In the help topic select b
 <br />
 
 <p>
-<img src="https://i.imgur.com/3bv9h9u.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-When online banking ticket is successfully created select open a new ticket. Type your email address and full name as an end user. In the help topic select personal computer issues. In the issue summary type Entire Accounting Depart Adobe Reader not working and state the problem. After stating the problem click create ticket. When the ticket is successfully created select open a new ticket.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/VTAJ24z.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-When Adobe Reader ticket is successfully created select open a new ticket. Type your email address and full name as an end user. In the help topic select general inquiry. In the issue summary type when are we getting a hardward refresh? and state the problem. After stating the problem click create ticket.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/qXKaPHN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the osticket website select the agent tab and choose agent user Jen. In the access tab select Support and Supreme Admin. Click save changes and logout.
+In the osticket website select the agent tab and choose agent user Jen. In the access tab select Support and Supreme Admin. Click save changes and log out.
 </p>
 <br />
 
@@ -73,7 +57,7 @@ In the osticket website select the agent tab and choose agent user Jen. In the a
 <img src="https://i.imgur.com/tcHXlxS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the login portal type the username and password as Jen and click login.
+In the login portal type the username and password as Jen and click log in.
 </p>
 <br />
 
@@ -150,26 +134,4 @@ If you want to view resolved online banking ticket select the closed tab. In the
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/x01ce4G.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Log out as agent Jen and log in as agent Joe for the 2nd ticket.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/Nmt4k70.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-in open tickes as Agent Joe click the adobe reader issue.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/Nmt4k70.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Work the online banking ticket as Jen by responding to the end user Karen who made the ticket to see if you can get an answer from the System Admin Dept and select post reply.
-</p>
-<br />
