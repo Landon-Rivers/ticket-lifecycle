@@ -130,6 +130,6 @@ Work the online banking ticket as Jen by responding to the end user Karen who ma
 <img src="https://i.imgur.com/B8FBHcG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the System Admin gives an answer respond to end user Karen that the problem has been taking care of and the online banking system should be back online. In the ticket status select resolved and post reply.
+Once the System Admin Team gives an answer respond to end user Karen that the problem has been taking care of and the online banking system should be back online. In the ticket status select resolved and post reply.
 </p>
 <br />
