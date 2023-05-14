@@ -78,3 +78,10 @@ In the login portal type the username and password as Jen and click login.
 <br />
 
 
+<p>
+<img src="https://i.imgur.com/OlPO3nc.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once logged in as Jen select the online banking ticket.
+</p>
+<br />
