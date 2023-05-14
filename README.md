@@ -149,3 +149,12 @@ When you go back to open tickets mobile banking is not present any more since th
 If you want to view resolved online banking ticket select the closed tab. In the closed tab you will see the resolved ticket present and the agent who closed the case.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/x01ce4G.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log out as agent Jen and log in as agent Joe for the 2nd ticket.
+</p>
+<br />
+
