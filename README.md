@@ -133,3 +133,19 @@ Work the online banking ticket as Jen by responding to the end user Karen who ma
 Once the System Admin Team gives an answer respond to end user Karen that the problem has been taking care of and the online banking system should be back online. In the ticket status select resolved and post reply.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ugFihMx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When you go back to open tickets mobile banking is not present any more since the case was resolved.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qqaoRS1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If you want to view resolved online banking ticket select closed tab. In the closed tab you will see the resolved ticket present.
+</p>
+<br />
