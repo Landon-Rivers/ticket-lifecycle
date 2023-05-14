@@ -65,7 +65,7 @@ When Adobe Reader ticket is successfully created select open a new ticket. Type 
 <img src="https://i.imgur.com/qXKaPHN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the ostickt website select the agent tab and choose agent user Jen. In the access tab select Support and Supreme Admin. Click save changes and logout.
+In the osticket website select the agent tab and choose agent user Jen. In the access tab select Support and Supreme Admin. Click save changes and logout.
 </p>
 <br />
 
@@ -158,3 +158,18 @@ Log out as agent Jen and log in as agent Joe for the 2nd ticket.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/Nmt4k70.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+in open tickes as Agent Joe click the adobe reader issue.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Nmt4k70.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Work the online banking ticket as Jen by responding to the end user Karen who made the ticket to see if you can get an answer from the System Admin Dept and select post reply.
+</p>
+<br />
