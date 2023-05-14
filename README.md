@@ -60,3 +60,11 @@ When online banking ticket is successfully created select open a new ticket. Typ
 Type your email address and full name as an end user. In the help topic select General Inquiry. In the issue summary type When are we getting a hardware refresh? and state the problem. After stating the problem click create ticket.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/tcHXlxS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When all 3 tickets are successfully created go to the osticket portal login. Type in the username and password as an agent named Jen and select login.
+</p>
+<br />
