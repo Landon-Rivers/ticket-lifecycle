@@ -54,10 +54,18 @@ When online banking ticket is successfully created select open a new ticket. Typ
 <br />
 
 <p>
-<img src="https://i.imgur.com/VTAJ24z.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qXKaPHN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type your email address and full name as an end user. In the help topic select General Inquiry. In the issue summary type When are we getting a hardware refresh? and state the problem. After stating the problem click create ticket.
+In the ostickt website select the agent tab and choose agent user Jen. In the access tab select Support and Supreme Admin. Click save changes and logout.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tcHXlxS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the login portal type the username and password as Jen and click login.
 </p>
 <br />
 
