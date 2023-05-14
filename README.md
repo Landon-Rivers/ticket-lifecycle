@@ -93,3 +93,11 @@ Once logged in as Jen select the online banking ticket.
 On the priority level select emergency and type a description stating why its an emergency. After typing the statement select update.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Twtlolo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In Department select System Administrators and type in why its assigned to that specific department. After typying the reason select transfer.
+</p>
+<br />
