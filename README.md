@@ -57,7 +57,7 @@ In the osticket website select the agent tab and choose agent user Jen. In the a
 <img src="https://i.imgur.com/tcHXlxS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the login portal type the username and password as Jen and click log in.
+In the osticket portal type the username and password as Jen and click log in.
 </p>
 <br />
 
