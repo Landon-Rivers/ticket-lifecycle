@@ -101,3 +101,19 @@ On the priority level select emergency and type a description stating why its an
 In Department select System Administrators and type in why its assigned to that specific department. After typying the reason select transfer.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/j8naItn.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In Assigned To section select Jen as the assignee and choose assign.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Jy8EykG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the SLA Plan section select SEV-A and type the reasoning from C to A. After typing the reason click update.
+</p>
+<br />
